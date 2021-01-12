@@ -2,4 +2,4 @@
 
 # Welcome
 
-Click here for [[Test]].
+Click here for [Testing Link](Test.md).
